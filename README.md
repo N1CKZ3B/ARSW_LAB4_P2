@@ -26,8 +26,10 @@ En este ejercicio se va a construír un modelo de clases para la capa lógica de
 
 	* Agregar las dependencias de Spring.
 	* Agregar la configuración de Spring.
-		Se añade el archivo de applicationContext en la carpeta resources dentro de la 			carpeta src
+
+		Se añade el archivo de applicationContext en la carpeta resources dentro de lacarpeta src
 	* Configurar la aplicación -mediante anotaciones- para que el esquema de persistencia sea inyectado al momento de ser creado el bean 'BlueprintServices'.
+
 		Solo es necesario otorgarle la anotacion de @Component a la clase de InMemoryPersistence
 
 
