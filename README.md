@@ -57,4 +57,19 @@ Se crea la clase MainApp dentro de la carpeta main con todas las otras carpetas 
 	* (A) Filtrado de redundancias: suprime del plano los puntos consecutivos que sean repetidos.
 	* (B) Filtrado de submuestreo: suprime 1 de cada 2 puntos del plano, de manera intercalada.
 
+A.)
+
+![image](https://github.com/user-attachments/assets/af9f8bfe-7689-4ae5-8f74-4388231beab3)
+
+B.)
+
+![image](https://github.com/user-attachments/assets/d92b0343-6bac-40fc-87e5-77e6f61249b1)
+
+
+
 5. Agrege las pruebas correspondientes a cada uno de estos filtros, y pruebe su funcionamiento en el programa de prueba, comprobando que sólo cambiando la posición de las anotaciones -sin cambiar nada más-, el programa retorne los planos filtrados de la manera (A) o de la manera (B). 
+
+![image](https://github.com/user-attachments/assets/f7843fa3-be52-46ea-9a92-a01a2559c769)
+
+![image](https://github.com/user-attachments/assets/0dff18e7-e0e8-4646-8ae0-8be667f97be8)
+
